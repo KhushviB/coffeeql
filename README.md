@@ -1,6 +1,6 @@
 # ☕ CoffeeQL
 
-> The query language for everything — structured, unstructured, geo, and AI in one syntax.
+> The query language for everything structured, unstructured, geo, and AI in one syntax.
 
 ```coffeeql
 users[]
