@@ -33,6 +33,8 @@ console.log(result.success) // true
 - `.like()` → AI similarity built-in
 - One syntax for everything
 
+# Star this REPO & FOLLOW for daily new sample backend codes. Starting → 25-05-2026 (Monday)
+
 ## Links
 
 - 📖 **Docs** → [coffeeql.dev](https://coffeeql.dev)
